@@ -10,6 +10,7 @@
         <Entry Placeholder="Enter the Address"/>
         <Entry Placeholder="Enter the place"/>
         <Button Text="Click here"/>
+        <Button Text="Submit"/>
         <Button Text="Clear"/>
     </StackLayout>
 
