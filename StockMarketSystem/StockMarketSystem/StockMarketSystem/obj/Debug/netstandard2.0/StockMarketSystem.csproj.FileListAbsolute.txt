@@ -1,0 +1,13 @@
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\bin\Debug\netstandard2.0\StockMarketSystem.deps.json
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\bin\Debug\netstandard2.0\StockMarketSystem.dll
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\bin\Debug\netstandard2.0\ref\StockMarketSystem.dll
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\bin\Debug\netstandard2.0\StockMarketSystem.pdb
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\StockMarketSystem.AssemblyInfoInputs.cache
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\StockMarketSystem.AssemblyInfo.cs
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\StockMarketSystem.csproj.CoreCompileInputs.cache
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\StockMarketSystem.dll
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\ref\StockMarketSystem.dll
+C:\Users\windev\FirstRepository\StockMarketSystem\StockMarketSystem\StockMarketSystem\obj\Debug\netstandard2.0\StockMarketSystem.pdb

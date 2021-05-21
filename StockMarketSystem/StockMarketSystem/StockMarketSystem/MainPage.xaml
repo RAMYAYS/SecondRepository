@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StockMarketSystem.MainPage">
+
+    <StackLayout>
+        <Label Text="Enter the userName"/>
+        <Label Text="Enter the passWord"/>
+        <Entry Placeholder="Enter the phone number"/>
+        <Entry Placeholder="Enter the Address"/>
+        <Entry Placeholder="Enter the place"/>
+        <Button Text="Click here"/>
+        <Button Text="Clear"/>
+    </StackLayout>
+
+</ContentPage>
